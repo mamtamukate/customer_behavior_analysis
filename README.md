@@ -87,7 +87,7 @@ The dataset contains information related to [sales, customers, retail, healthcar
 * Built an interactive Power BI dashboard.
 * Added filters, slicers, and KPI cards.
 * Visualized trends and performance metrics.
-* <img width="1282" height="742" alt="image" src="C:\Users\hp\OneDrive\Desktop\data_analyst_projects\customer_shopping_behaviour\Screenshot 2026-07-05 135507.png" />
+* <img width="1282" height="742" alt="image" src="\Screenshot 2026-07-05 135507.png" />
 
 
 ### 6. Reporting
